@@ -5,4 +5,4 @@ metadata:
   description: A collection of UKG groups
 spec:
   targets:
-    - ./developer-acceleration/developer-acceleration.system.yaml
+    - ./developer-acceleration/developer-acceleration.group.yaml
