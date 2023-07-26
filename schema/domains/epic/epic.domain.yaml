@@ -3,3 +3,5 @@ kind: Domain
 metadata:
   name: epic
   description: A collection of UKG systems and groups
+spec:
+  owner: developer-acceleration

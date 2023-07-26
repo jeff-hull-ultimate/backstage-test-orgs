@@ -5,3 +5,4 @@ metadata:
   name: harbor
 spec:
   owner: developer-acceleration
+  domain: epic
