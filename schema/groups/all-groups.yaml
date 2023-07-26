@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: ukg-groups
+  description: A collection of UKG groups
+spec:
+  targets:
+    - ./developer-acceleration/developer-acceleration.system.yaml

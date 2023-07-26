@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: ukg-systems
+  description: A collection of UKG systems
+spec:
+  targets:
+    - ./harbor/harbor.system.yaml

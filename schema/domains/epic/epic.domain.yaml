@@ -1,0 +1,5 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: epic
+  description: A collection of UKG systems and groups
