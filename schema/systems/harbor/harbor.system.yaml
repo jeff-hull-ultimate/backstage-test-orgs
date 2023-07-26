@@ -3,6 +3,8 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: harbor
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   owner: developer-acceleration
   domain: epic
