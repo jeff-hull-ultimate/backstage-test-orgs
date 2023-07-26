@@ -7,7 +7,3 @@ spec:
   targets:
     - ./systems/all-systems.yaml
     - ./groups/all-groups.yaml
-    - ./domains/all-domains.yaml
-    - ./apis.yaml
-    - ./users.yaml
-    - ./component-templates/node-template.yaml
