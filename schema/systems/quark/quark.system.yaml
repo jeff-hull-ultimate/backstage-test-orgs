@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: quark
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/jeff-hull-ultimate/quark-docs/tree/main
+spec:
+  owner: developer-acceleration
+  domain: epic
