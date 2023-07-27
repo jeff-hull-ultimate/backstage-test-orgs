@@ -6,3 +6,4 @@ metadata:
 spec:
   targets:
     - ./harbor/harbor.system.yaml
+    - ./quark/quark.system.yaml
